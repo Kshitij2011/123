@@ -29,5 +29,5 @@ background-color: rgb(100, 246, 100);
 canvas{
     border:5px solid grey;
     border-radius:20px;
-    box-shadow: 15px 15px 15px red;
+    box-shadow: 15px 15px 15px cyan;
 }
